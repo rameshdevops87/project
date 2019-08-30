@@ -1,1 +1,3 @@
-This is from Local Git
+<<<<<<< HEAD
+This is from Github
+>>>>>>> 0ebfa95ae0d5f9e675d406c34214da9f96f3a4c3
